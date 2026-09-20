@@ -16,6 +16,8 @@ Doctors use a special brain image (DaT-SPECT) to see whether the dopamine system
 
 Our program learned to *normalize* the images (bring them all to the same standard) and then to answer carefully: not "sick!" or "healthy!", but a probability — and when unsure, it says "fairly unsure." The metric (log loss) punishes confident wrong answers hard. Caution was the goal, not a weakness.
 
+> Challenge background: [DrivenData competition page](https://www.drivendata.org/competitions/311/dat-parkinsons-challenge/).
+
 ## The problem
 
 Binary classification of DaT-SPECT volumes (NIfTI): `is_pathologic` 0/1. The difficulty wasn't the CNN — it was the dataset:

@@ -18,6 +18,8 @@ Die Frage war nicht „kann ein Agent Mails beantworten?" — das kann jeder Dra
 
 ## Was gebaut wurde
 
+![Konsole mit Decision-Cards](/assets/img/projects/clubsteward/04-decisions.png)
+
 Ein Agent, der den Vereins-Inbox über Nacht abarbeitet: Triage, Register-Updates, Entwürfe. Aber nur die repetitiven 80 %. Alles, was Urteil braucht, wird morgens zu einer **Decision-Card**: die Original-Mail, was der Agent verstanden hat, sein Vorschlag — und die exakte Policy-Zeile, die ihn gestoppt hat. Auf Deutsch, in der Sprache des Vereins: *„Warum du?"*
 
 Das Entscheidende ist die Architektur dahinter:

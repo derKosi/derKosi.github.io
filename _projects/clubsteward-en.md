@@ -33,6 +33,51 @@ The **web console** is the secretary's morning: step through emails live (mail o
 - **Eval harness**: a labeled 10-mail corpus regression-tests triage accuracy on every change.
 - **Replay mode**: judges without an API key play back a recorded real session, clearly labeled as a recording.
 
+## Architecture
+
+```mermaid
+flowchart LR
+    subgraph Inbox["Inbox - demo/data/inbox"]
+        M1["9 member emails (.eml)"]
+    end
+    subgraph Strands["Strands Agents SDK"]
+        T["Triage Agent<br/>structured_output = TriageResult<br/>(intent, facts, confidence)"]
+        P{{"Policy Gate<br/>policy.yaml<br/>auto / ask / reject"}}
+        A["Act Agent + Tools<br/>register_lookup / register_update<br/>register_add / save_draft / log_activity"]
+        H["HumanInTheLoop intervention<br/>policy_classifier reads<br/>case context + policy"]
+        S[("FileSessionManager<br/>per-member sessions")]
+    end
+    subgraph Human["Club Secretary (human)"]
+        D["decide CLI<br/>approve / edit / deny"]
+    end
+    subgraph Out["demo/data outputs"]
+        R[("register.csv")]
+        O["outbox/ reply drafts"]
+        Q["decisions/ queue"]
+        L["activity.log + run_summary.json"]
+    end
+    M1 --> T
+    T --> P
+    P -- "auto (signup, address change, questions)" --> A
+    P -- "ask (hardship, cancellation, complaint)" --> Q
+    P -- "reject (spam)" --> X["discarded"]
+    A <--> H
+    A <--> S
+    Q --> D
+    D -- "approved + instructions" --> A
+    A --> R
+    A --> O
+    A --> L
+```
+
+*Source: [`docs/architecture.mmd`](https://github.com/derKosi/clubsteward/blob/main/docs/architecture.mmd) — the same file the repo renders.*
+
+## The console in action
+
+![ClubSteward console: morning-review decision cards](/assets/img/projects/clubsteward/04-decisions.png)
+![Decision card: original mail, analysis, proposal, policy line](/assets/img/projects/clubsteward/05-decision-card.png)
+![Step mode: mail on the left, agent analysis on the right](/assets/img/projects/clubsteward/03-step-mode.png)
+
 ## Challenges
 
 - Making "only ask a human when it matters" an **engineered property**, not a vibe. Solved with three inspectable layers — policy route (auto/ask/reject), tool category gating, per-case context. The same YAML drives all three.
