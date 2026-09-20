@@ -6,8 +6,6 @@ tags: [.NET 10, OAuth 2.0, Token-Broker, Security, AES-256-GCM, Key Vault, WORM,
 summary: "OAuth-2.0-Token-Mediationsplattform für Partner-App-Stores: 17 Live-Adapter, Azure-Production-Backends mit Key-Vault-Envelope-Encryption und Blob-WORM-Compliance, SDK-Plattform mit generierten Provider-Clients."
 ---
 
-# Heimdall – OAuth-2.0-Token-Mediation
-
 > **Mission:** Partner-Client-Apps sicher an Anbieter wie DATEV, SuperOffice, HubSpot anbinden – ohne dass das `client_secret` die Kontrolle verliert.
 
 ## Problem

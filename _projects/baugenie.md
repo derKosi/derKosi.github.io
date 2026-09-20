@@ -7,8 +7,6 @@ summary: "Multilingual Construction-Management-SaaS: Treppen-/Beton-/Materialrec
 category: ferner-liefen
 ---
 
-# BauGenie – Construction-SaaS
-
 > **Ferner liefen** – andere Domäne, aber zeigt Full-Stack-Breite und CI/CD-Reife.
 
 ## Was es ist

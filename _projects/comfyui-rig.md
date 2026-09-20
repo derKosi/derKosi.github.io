@@ -6,8 +6,6 @@ tags: [ComfyUI, MCP, Python, Local AI, RTX 3090, Stable Diffusion, Agents]
 summary: "Programmatische Steuerung eines lokalen ComfyUI-Generators (RTX 3090) über MCP-Server: 31 Tools für Workflow-Erstellung, Model-Management und VRAM-Kontrolle, angebunden an AI-Agenten."
 ---
 
-# ComfyUI-Rig – Lokale AI-Generierung via MCP
-
 > **Mission:** AI-Bild- und Video-Generierung lokal betreiben – kontrolliert durch Agenten, ohne Cloud-Abhängigkeit.
 
 ## Setup

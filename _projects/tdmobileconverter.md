@@ -7,8 +7,6 @@ summary: "Konvertiert Gupta/OpenText TD Mobile SAL-Quellcode in eine Blazor Serv
 category: ferner-liefen
 ---
 
-# TDMobileConverter – Legacy-Migration mit LLM
-
 > **Ferner liefen** – zeigt die AI×Legacy-Kreuzung, die im Hauptberuf relevant ist.
 
 ## Was es ist

@@ -7,8 +7,6 @@ summary: "Offline-Diktierwerkzeug: Hotkey drücken, sprechen, Text landet in bel
 category: ferner-liefen
 ---
 
-# Phon – Offline-Spracherkennung
-
 > **Ferner liefen** – nützliches Werkzeug aus dem Local-AI-Umfeld.
 > *The unit of perceived loudness. Adjusted for how humans actually hear.*
 

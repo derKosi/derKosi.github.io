@@ -6,8 +6,6 @@ tags: [Go, Bubble Tea, TUI, Privacy, Offline, AI-Hygiene, Compliance, Security]
 summary: "Cross-platform TUI-Scanner für AI-Software: 90+ Signaturen, Compliance-Mode mit CI-Gates und Baselines, reversibler Backup-Mode, Credential-Audit – 100 % offline, kein HTTP-Client im Codebase."
 ---
 
-# Ohm – Privacy-First AI-Scanner
-
 > **Tagline:** *Resistance against AGI bloat.*
 > **Quellcode:** [github.com/derKosi/Ohm](https://github.com/derKosi/Ohm) (public, AGPL-3.0) · [Releases](https://github.com/derKosi/Ohm/releases/latest)
 > Ohm misst, was da ist – und hilft dir, zu entfernen, was du nicht brauchst.

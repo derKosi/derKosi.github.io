@@ -7,8 +7,6 @@ summary: ".NET 8 Library für EU-VAT-Nummer-Validierung gegen BZSt und VIES. Aut
 category: ferner-liefen
 ---
 
-# VatValidator – EU VAT-Validierung
-
 > **Ferner liefen** – kleines, aber polished API-Engineering-Beispiel.
 
 ## Was es ist

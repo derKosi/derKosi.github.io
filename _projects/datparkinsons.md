@@ -7,8 +7,6 @@ summary: "Binärklassifikation von DaT-SPECT-Hirnscans für die DrivenData-Chall
 category: hackathons
 ---
 
-# DaT Parkinson's – SPECT-Klassifikation
-
 > **Wettbewerb:** [DaT Parkinson's Challenge](https://www.drivendata.org/competitions/311/dat-parkinsons-challenge/) (DrivenData, 2026)
 > **Metrik:** Log Loss · **Finaler Stand:** 0.3963 · AUROC 0.9004 · Rank #197/744
 > Arbeits-Repo privat; diese Seite ist die öffentliche Writeup-Fassung.

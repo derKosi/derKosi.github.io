@@ -6,8 +6,6 @@ tags: [Secure AI, LLM-Gateway, Compliance, Python, TypeScript, FastAPI, Presidio
 summary: "Compliance-first AI-Plattform für rechtssichere KI-Nutzung im DACH-Markt: LLM-Gateway mit PII-Filter, Compliance-Shields, hash-chained Audit-Logging, Multi-Agent-Coding."
 ---
 
-# KosiComply – Secure-AI-Plattform
-
 > **Mission:** KI-Nutzung in Unternehmen rechtssicher möglich machen – nach VdS 10000, ISO 27001 und EU AI Act.
 
 ## Problem

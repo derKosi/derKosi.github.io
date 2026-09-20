@@ -6,8 +6,6 @@ tags: [.NET 10, ASP.NET Core, Mock-Server, B2B-Integration, Testing, SQLite, Mul
 summary: "Realistische Mock-Server für 11 B2B-SaaS-Provider, die keinen Testzugang gewähren. 213 Tests, Multi-Tenant. .NET 10, ASP.NET Core."
 ---
 
-# CloudStandins – „LocalStack for SaaS APIs"
-
 > **Tagline:** *Run one process, get 11 mocked API providers with realistic demo data.*
 
 ## Problem

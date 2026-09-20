@@ -7,8 +7,6 @@ summary: "Terminal-Disk-Usage-Analyzer mit squarified Treemap, File-Type-Breakdo
 category: open-source
 ---
 
-# UnixDirStat – Disk-Usage im Terminal
-
 > **Quellcode:** [github.com/derKosi/UnixDirStat](https://github.com/derKosi/UnixDirStat) (public, MIT)
 > **Download:** [Releases](https://github.com/derKosi/UnixDirStat/releases/latest) – Linux/macOS/Windows
 

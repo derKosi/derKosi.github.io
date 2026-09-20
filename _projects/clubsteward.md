@@ -7,8 +7,6 @@ summary: "Vereinssekretär-Agent, der den Inbox overnight abarbeitet und nur fü
 category: hackathons
 ---
 
-# ClubSteward – Overnight Club-Secretary Agent
-
 > **Einreichung:** [Agents for Humans Hackathon](https://agentsforhumans.devpost.com/) (AWS × Devpost, 2026) · Track: *Good Neighbor Agents*
 > **Quellcode:** [github.com/derKosi/clubsteward](https://github.com/derKosi/clubsteward) (public)
 

@@ -7,8 +7,6 @@ summary: "Multi-System-Daten-Synchronisation zwischen DATEV, SuperOffice und Hub
 category: ferner-liefen
 ---
 
-# Kanzlei360 – Multi-System-Sync
-
 > **Ferner liefen** – detailliertes Engineering-Beispiel, nicht primäres Produkt.
 
 ## Was es ist
