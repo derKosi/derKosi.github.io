@@ -22,8 +22,8 @@ Wo der Quellcode öffentlich ist, ist er verlinkt – private Arbeiten gerne bei
 
 ## Hackathons & Wettbewerbe
 
-- [**ClubSteward**](/projects/clubsteward/) – Overnight Club-Secretary Agent ([GitHub](https://github.com/derKosi/clubsteward)). Strands Agents SDK, Policy-as-Data-Human-in-the-Loop, lokal. Agents-for-Humans-Hackathon (AWS × Devpost).
-- [**DaT Parkinson's**](/projects/datparkinsons/) – DaT-SPECT-Klassifikation (DrivenData 2026). 3D-CNN auf Hirnscans, kalibrierte Wahrscheinlichkeiten unter Log Loss.
+- [**ClubSteward**](/projects/clubsteward/) – Overnight Club-Secretary Agent ([GitHub](https://github.com/derKosi/clubsteward)). Strands Agents SDK, Policy-as-Data-Human-in-the-Loop (decision cards mit Warum-du?-Begruendung), vollstaendig lokal. Agents-for-Humans-Hackathon (AWS x Devpost).
+- [**DaT Parkinson's**](/projects/datparkinsons/) – DaT-SPECT-Klassifikation (DrivenData 2026). GBM+SBR-Features + MIP-CNN gegen Site-Shift; LCO-validiert. Finaler LB-Score 0.3963 (Log Loss), AUROC 0.9004.
 
 ## B2B Integration & Tooling
 
