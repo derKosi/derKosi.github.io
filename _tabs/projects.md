@@ -3,7 +3,6 @@ icon: fas fa-layer-group
 order: 1
 ---
 
-# Projekte
 
 Ausgewählte Arbeiten aus dem Bereich Secure AI, Cloud Architecture und B2B-Integration.
 Wo der Quellcode öffentlich ist, ist er verlinkt – private Arbeiten gerne bei Interesse nachfragen.
@@ -20,10 +19,6 @@ Wo der Quellcode öffentlich ist, ist er verlinkt – private Arbeiten gerne bei
 - [**ComfyUI-Rig**](/projects/comfyui-rig/) – Lokale AI-Generierung via MCP-Server. 31 Tools für Workflow-Erstellung, Model-Management, VRAM-Kontrolle. Angebunden an AI-Agenten.
 - [**Phon**](/projects/phon/) – Offline-Spracherkennung. Hotkey → sprechen → Text im Clipboard. 100 % offline, faster-whisper/VOSK, Legacy-Hardware-tauglich.
 
-## Hackathons & Wettbewerbe
-
-- [**ClubSteward**](/projects/clubsteward/) – Overnight Club-Secretary Agent ([GitHub](https://github.com/derKosi/clubsteward)). Strands Agents SDK, Policy-as-Data-Human-in-the-Loop (decision cards mit Warum-du?-Begruendung), vollstaendig lokal. Agents-for-Humans-Hackathon (AWS x Devpost).
-- [**DaT Parkinson's**](/projects/datparkinsons/) – DaT-SPECT-Klassifikation (DrivenData 2026). GBM+SBR-Features + MIP-CNN gegen Site-Shift; LCO-validiert. Finaler LB-Score 0.3963 (Log Loss), AUROC 0.9004.
 
 ## B2B Integration & Tooling
 
