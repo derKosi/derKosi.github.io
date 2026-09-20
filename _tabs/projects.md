@@ -6,7 +6,7 @@ order: 1
 # Projekte
 
 Ausgewählte Arbeiten aus dem Bereich Secure AI, Cloud Architecture und B2B-Integration.
-Alle Projekte sind private Arbeiten – kein Source-Code-Link, aber gerne bei Interesse nachfragen.
+Wo der Quellcode öffentlich ist, ist er verlinkt – private Arbeiten gerne bei Interesse nachfragen.
 
 ## Secure AI & Compliance
 
@@ -15,9 +15,15 @@ Alle Projekte sind private Arbeiten – kein Source-Code-Link, aber gerne bei In
 
 ## AI Tooling & Privacy
 
-- [**Ohm**](/projects/ohm/) – Privacy-First-Scanner für AI-Software. Erkennt Agents, Modelle, Config-Dateien, Credentials. 100 % offline, kein HTTP-Client im Codebase. Go, Bubble Tea.
+- [**Ohm**](/projects/ohm/) – Privacy-First-Scanner für AI-Software ([GitHub](https://github.com/derKosi/Ohm), AGPL-3.0). Erkennt Agents, Modelle, Config-Dateien, Credentials. 100 % offline, kein HTTP-Client im Codebase. 2026 extern auditiert (OpenVuln/z.ai) – alle Findings gefixt in v0.2.0.
+- [**UnixDirStat**](/projects/unixdirstat/) – Disk-Usage-Analyzer mit Treemap fürs Terminal ([GitHub](https://github.com/derKosi/UnixDirStat), MIT). WinDirStat-Feeling in Go + Bubble Tea; ebenfalls 2026 auditiert und gehärtet.
 - [**ComfyUI-Rig**](/projects/comfyui-rig/) – Lokale AI-Generierung via MCP-Server. 31 Tools für Workflow-Erstellung, Model-Management, VRAM-Kontrolle. Angebunden an AI-Agenten.
 - [**Phon**](/projects/phon/) – Offline-Spracherkennung. Hotkey → sprechen → Text im Clipboard. 100 % offline, faster-whisper/VOSK, Legacy-Hardware-tauglich.
+
+## Hackathons & Wettbewerbe
+
+- [**ClubSteward**](/projects/clubsteward/) – Overnight Club-Secretary Agent ([GitHub](https://github.com/derKosi/clubsteward)). Strands Agents SDK, Policy-as-Data-Human-in-the-Loop, lokal. Agents-for-Humans-Hackathon (AWS × Devpost).
+- [**DaT Parkinson's**](/projects/datparkinsons/) – DaT-SPECT-Klassifikation (DrivenData 2026). 3D-CNN auf Hirnscans, kalibrierte Wahrscheinlichkeiten unter Log Loss.
 
 ## B2B Integration & Tooling
 

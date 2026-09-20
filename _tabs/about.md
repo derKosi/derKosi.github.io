@@ -15,6 +15,10 @@ Viele AI-Lösungen bleiben Demo. Ich baue Systeme, die in regulierten Umgebungen
 
 Parallel dazu modernisiere ich gewachsene Business-Software und integriere B2B-Systeme.
 
+## Open Source & Wettbewerbe
+
+Ein Teil meiner Arbeit ist öffentlich: [Ohm](https://github.com/derKosi/Ohm) (AI-Hygiene-Scanner, AGPL), [UnixDirStat](https://github.com/derKosi/UnixDirStat) (Terminal-Disk-Analyzer, MIT) und [ClubSteward](https://github.com/derKosi/clubsteward) (Hackathon-Agent, Strands SDK). Dazu Wettbewerbs-ML (DrivenData DaT Parkinson's) – die Disziplin des Arbeitens unter Metrik und Deadline.
+
 ## Schwerpunkte
 
 - **Secure / Local AI** – LLM-Gateways, PII-Detection, On-Prem-Inferenz (Ollama, LM Studio, vLLM), ComfyUI-Steuerung

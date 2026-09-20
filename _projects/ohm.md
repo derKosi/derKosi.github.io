@@ -9,6 +9,7 @@ summary: "Cross-platform TUI-Scanner für AI-Software: 90+ Signaturen, Complianc
 # Ohm – Privacy-First AI-Scanner
 
 > **Tagline:** *Resistance against AGI bloat.*
+> **Quellcode:** [github.com/derKosi/Ohm](https://github.com/derKosi/Ohm) (public, AGPL-3.0) · [Releases](https://github.com/derKosi/Ohm/releases/latest)
 > Ohm misst, was da ist – und hilft dir, zu entfernen, was du nicht brauchst.
 
 ## Problem
@@ -74,6 +75,10 @@ Aus dem persönlichen Aufräum-Tool wurde ein auditierbares Instrument:
 | TUI | Bubble Tea |
 | Netzwerk | **Keins** (by design) |
 | Tests | Unit-Tests für Pure Functions (Model, Generator) |
+
+## Security-Audit 2026
+
+Ohm wurde 2026 von [OpenVuln](https://openvuln.vulnhunter.pro) (powered by [z.ai](https://huggingface.co/spaces/zai-org/OpenVuln)) vollständig auditiert: 11 Findings, u. a. Shell-Injection-Ketten im Cleanup-Skript-Generator (CWE-78), Symlink-Angriffe auf die Skript-Ausgabe (CWE-59/377) und manipulierbare State-Files. Alle Findings wurden per PoC reproduziert, gefixt, regression-getestet und in v0.2.0 released – mit vollständiger AGPL-3.0-Lizenz. Der Ablauf ist im [Blogpost](/posts/how-an-ai-audit-found/) beschrieben.
 
 ## Warum dieses Projekt
 
