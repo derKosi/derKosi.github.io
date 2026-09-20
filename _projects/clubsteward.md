@@ -8,7 +8,17 @@ category: hackathons
 ---
 
 > **Einreichung:** [Agents for Humans Hackathon](https://agentsforhumans.devpost.com/) (AWS × Devpost, 2026) · Track: *Good Neighbor Agents*
+**Deutsch** · [English](/projects/clubsteward-en/) · [Einfache Sprache ↓](#in-einfachen-worten)
+
 > **Quellcode:** [github.com/derKosi/clubsteward](https://github.com/derKosi/clubsteward) (public)
+
+## In einfachen Worten
+
+Vereine haben viel Post: Anmeldungen, Adressänderungen, Fragen zum Spielplan. Das ist viel Arbeit — und sie wird oft von Menschen gemacht, die das ehrenamtlich neben ihrem richtigen Job tun.
+
+ClubSteward ist ein Computer-Programm, das diese Post über Nacht erledigt. Es liest jede E-Mail, versteht, worum es geht, und schreibt Antwort-Entwürfe. Bei einfachen Dingen hilft es direkt. Bei schwierigen Dingen — zum Beispiel, wenn jemand weniger zahlen muss, weil er wenig Geld hat — wartet es und fragt am Morgen einen Menschen. Der Mensch sieht dann genau: die E-Mail, was das Programm verstanden hat, was es vorschlägt — und welche Regel gesagt hat: hier muss ein Mensch entscheiden.
+
+Das Wichtigste: Das Programm verschickt nichts von selbst. Es schreibt nur Entwürfe. Und es kostet etwa einen Cent pro Nacht.
 
 ## Inspiration
 
