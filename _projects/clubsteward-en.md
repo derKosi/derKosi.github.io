@@ -36,6 +36,7 @@ The **web console** is the secretary's morning: step through emails live (mail o
 
 ## Architecture
 
+{% raw %}
 ```mermaid
 flowchart LR
     subgraph Inbox["Inbox - demo/data/inbox"]
@@ -70,6 +71,7 @@ flowchart LR
     A --> O
     A --> L
 ```
+{% endraw %}
 
 *Source: [`docs/architecture.mmd`](https://github.com/derKosi/clubsteward/blob/main/docs/architecture.mmd) — the same file the repo renders.*
 

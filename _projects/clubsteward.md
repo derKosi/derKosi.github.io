@@ -46,6 +46,7 @@ Die **Web-Konsole** ist der Morgen der Sekretärin: Mails live durchsteppen (Mai
 
 ## Architektur
 
+{% raw %}
 ```mermaid
 flowchart LR
     subgraph Inbox["Inbox - demo/data/inbox"]
@@ -80,6 +81,7 @@ flowchart LR
     A --> O
     A --> L
 ```
+{% endraw %}
 
 *Quelle: [`docs/architecture.mmd`](https://github.com/derKosi/clubsteward/blob/main/docs/architecture.mmd) — dieselbe Datei, die das Repo rendert.*
 
