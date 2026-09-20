@@ -6,6 +6,7 @@ tags: [Python, Strands Agents SDK, GLM, LiteLLM, Policy-as-Data, Human-in-the-Lo
 summary: "An overnight club-secretary agent that works the inbox and wakes a human only for decisions that deserve one. Strands Agents SDK, GLM via LiteLLM, policy-as-data HITL, fully local."
 category: hackathons
 permalink: /projects/clubsteward-en/
+mermaid: true
 ---
 
 [Deutsch](/projects/clubsteward/) · **English** · [Einfache Sprache (DE)](/projects/clubsteward/#in-einfachen-worten)

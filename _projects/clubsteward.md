@@ -5,6 +5,7 @@ icon: fas fa-trophy
 tags: [Python, Strands Agents SDK, GLM, LiteLLM, Policy-as-Data, Human-in-the-Loop, Local AI]
 summary: "Vereinssekretär-Agent, der den Inbox overnight abarbeitet und nur für echte Entscheidungen einen Menschen weckt. Strands Agents SDK, GLM via LiteLLM, Policy-as-Data-HITL, vollständig lokal."
 category: hackathons
+mermaid: true
 ---
 
 > **Einreichung:** [Agents for Humans Hackathon](https://agentsforhumans.devpost.com/) (AWS × Devpost, 2026) · Track: *Good Neighbor Agents*
