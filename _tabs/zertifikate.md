@@ -23,7 +23,7 @@ Alle Zertifikate sind verifizierbar — Credential-IDs stehen dabei, die Cloud-P
 | Azure AI Engineer Associate | 06/2024 – 06/2027 | `39B447C384E1503` |
 | Azure Data Scientist Associate | 02/2023 – 02/2027 | `CFED8DFAE200F84F` |
 
-*Verifizierung: [Microsoft Learn Credential-Portal](https://learn.microsoft.com/en-us/credentials/) — Credential-ID eingeben. Credly-Share-Links: <!-- TODO: Credly-Profile-URLs ergänzen -->*
+*Verifizierung: [Microsoft Learn Credential-Portal](https://learn.microsoft.com/en-us/credentials/) — Credential-ID eingeben · [Credly-Badges](https://www.credly.com/users/mathias-kosinski/badges) · [Zertifikat-Profil](https://www.credential.net/profile/kosi/)*
 
 ## Google Cloud
 
@@ -36,7 +36,7 @@ Alle Zertifikate sind verifizierbar — Credential-IDs stehen dabei, die Cloud-P
 
 | Zertifikat | Provider | Gültig | Beleg |
 |---|---|---|---|
-| ROCm Certified Associate | AMD | 2026 – 2028 | Credly <!-- TODO: Credly-URL ergänzen --> |
+| ROCm Certified Associate | AMD | 2026 – 2028 | [Credly-Badges](https://www.credly.com/users/mathias-kosinski/badges) |
 | Statistical Learning | Stanford Online (2016) | — | Credential `0b203fa0e0b04820b8bc99f118185bea` |
 | Statistical Thinking for Data Science | Columbia University (2017) | — | Credential `89ffb7f26f074a828782fdc8fb7949c0` |
 | Introduction to Machine Learning | Duke University (2021) | — | Credential `BN2BG85RPSMJ` |

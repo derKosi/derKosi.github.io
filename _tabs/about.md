@@ -37,7 +37,7 @@ Ein Teil meiner Arbeit ist öffentlich: [Ohm](https://github.com/derKosi/Ohm) (A
 
 ## Wie ich arbeite
 
-Ich arbeite AI-augmented – mit eigenen Agent-Harnesses, MCP-Servern und lokaler Inferenz. Je nach Projekt und Anforderung verlässt sensibler Code meinen Rechner gar nicht (rein lokale Inferenz); sobald Cloud-LLMs im Spiel sind, laufen sie hinter vorgeschalteten Compliance-Shields, die PII filtern und Audit-Logs schreiben. Alles wird vor der Übernahme reviewed – nichts geht ungeprüft in Produktion.
+Ich arbeite AI-augmented – mit eigenen Agent-Harnesses, MCP-Servern und lokaler Inferenz. Je nach Projekt und Anforderung verlässt sensibler Code meinen Rechner gar nicht (rein lokale Inferenz); sobald Cloud-LLMs im Spiel sind, laufen sie hinter vorgeschalteten Compliance-Shields, die PII filtern und Audit-Logs schreiben. Alles wird vor der Übernahme reviewed – nichts geht ungeprüft in Produktion. Wie das konkret funktioniert, habe ich [hier mit Zahlen dokumentiert](/posts/agentic-arbeitsweise/).
 
 ## Standort & Zusammenarbeit
 

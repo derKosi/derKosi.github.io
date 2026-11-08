@@ -1,4 +1,92 @@
 ---
-layout: home
-# Index page
+layout: page
 ---
+
+<div class="hero">
+  <h1>Mathias Kosinski</h1>
+  <p class="hero-tagline">
+    Senior Software Engineer &amp; Cloud Architect — ich baue die Plattform, die KI in
+    regulierten Umgebungen erst rechtssicher macht: LLM-Gateways, Compliance-Shields,
+    Agenten-Infrastruktur. Und ich beweise es: unter Metrik, Deadline und externem Judging.
+  </p>
+  <div class="hero-ctas">
+    <a class="btn btn-primary" href="{{ '/projects/' | relative_url }}">Projekte</a>
+    <a class="btn btn-outline-secondary" href="{{ '/wettbewerbe/' | relative_url }}">Wettbewerbe</a>
+    <a class="btn btn-outline-secondary" href="{{ '/zertifikate/' | relative_url }}">Zertifikate</a>
+    <a class="btn btn-outline-secondary" href="{{ '/about/' | relative_url }}">Über mich</a>
+  </div>
+</div>
+
+<div class="stat-row">
+  <a class="stat-card" href="{{ '/projects/signalflow/' | relative_url }}">
+    <span class="stat-value">🏆 1.</span>
+    <span class="stat-label">Hackatron München — Smart Cities 2026</span>
+  </a>
+  <a class="stat-card" href="{{ '/posts/whest-arc-top23/' | relative_url }}">
+    <span class="stat-value">Top 23 %</span>
+    <span class="stat-label">ARC White-Box Estimation (180/800)</span>
+  </a>
+  <a class="stat-card" href="{{ '/posts/dat-parkinsons-writeup/' | relative_url }}">
+    <span class="stat-value">0.3963</span>
+    <span class="stat-label">Log Loss — DrivenData DaT Parkinson's</span>
+  </a>
+  <a class="stat-card" href="{{ '/zertifikate/' | relative_url }}">
+    <span class="stat-value">6</span>
+    <span class="stat-label">aktive Cloud-Zertifikate (5× Azure, GCP PCA)</span>
+  </a>
+  <a class="stat-card" href="{{ '/about/' | relative_url }}">
+    <span class="stat-value">18 J.</span>
+    <span class="stat-label">Business-Software (DATEV/SuperOffice-Ökosystem)</span>
+  </a>
+  <a class="stat-card" href="https://github.com/derKosi">
+    <span class="stat-value">192+</span>
+    <span class="stat-label">gemergte PRs, 40+ Repos (GitHub-Evidenz 10/2026)</span>
+  </a>
+</div>
+
+<div class="landing-section">
+  <h2>Ausgewählte Projekte</h2>
+  <div class="proj-grid">
+    <a class="proj-tile" href="{{ '/projects/kosicomply/' | relative_url }}">
+      <span class="proj-name">KosiComply</span>
+      <span class="proj-desc">Compliance-first AI-Plattform: LLM-Gateway mit PII-Filter, Compliance-Shields, hash-chained Audit-Logging.</span>
+      <span class="proj-meta">Secure AI · DACH-Regulierung</span>
+    </a>
+    <a class="proj-tile" href="{{ '/projects/heimdall/' | relative_url }}">
+      <span class="proj-name">Heimdall</span>
+      <span class="proj-desc">OAuth-2.0-Token-Mediationsplattform für Partner-App-Stores. 17 Live-Adapter, AES-256-GCM, custody-Modelle.</span>
+      <span class="proj-meta">Cloud Security · OAuth</span>
+    </a>
+    <a class="proj-tile" href="{{ '/projects/ohm/' | relative_url }}">
+      <span class="proj-name">Ohm</span>
+      <span class="proj-desc">Privacy-First-Scanner für AI-Software (AGPL, GitHub). Erkennt Agents, Modelle, Credentials. 100 % offline, 2026 extern auditiert.</span>
+      <span class="proj-meta">Open Source · Auditiert</span>
+    </a>
+    <a class="proj-tile" href="{{ '/projects/signalflow/' | relative_url }}">
+      <span class="proj-name">SignalFlow</span>
+      <span class="proj-desc">Erklärbare Ampelsteuerung: −24,5 % Delay auf identischem Verkehrsstrom bewiesen. Gewinner Smart-Cities-Challenge.</span>
+      <span class="proj-meta">🏆 Hackatron-Gewinner · Live-Demo</span>
+    </a>
+    <a class="proj-tile" href="{{ '/projects/agent-rush/' | relative_url }}">
+      <span class="proj-name">agent-rush</span>
+      <span class="proj-desc">Untrusted Python-Pakete im gehärteten Container proben — Risk-Report plus Roh-Evidenz. „Evidenz statt Behauptung."</span>
+      <span class="proj-meta">AI Security · Vultr Agent Rush</span>
+    </a>
+    <a class="proj-tile" href="{{ '/projects/clubsteward/' | relative_url }}">
+      <span class="proj-name">ClubSteward</span>
+      <span class="proj-desc">Overnight Club-Secretary-Agent: Policy-as-Data-Human-in-the-Loop, autonom auf die 80 %, gestoppt bei den 20 %.</span>
+      <span class="proj-meta">AI Agents · AWS × Devpost</span>
+    </a>
+  </div>
+</div>
+
+<div class="landing-section recent-posts">
+  <h2>Neueste Beiträge</h2>
+  {% for post in site.posts limit: 5 %}
+  <div class="post-item">
+    <a href="{{ post.url | relative_url }}" class="fw-semibold">{{ post.title }}</a>
+    <span class="text-muted"> · {{ post.date | date: '%d.%m.%Y' }}</span>
+  </div>
+  {% endfor %}
+  <a href="{{ '/archives/' | relative_url }}">Alle Beiträge →</a>
+</div>
