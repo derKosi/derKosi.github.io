@@ -207,13 +207,13 @@ sass:
   style: compressed
 
 compress_html:
-  clippings: all
-  comments: all
-  endings: all
+  clippings: []
+  comments: []
+  endings: []
   profile: false
   blanklines: false
   ignore:
-    envs: [development]
+    envs: []
 
 exclude:
   - "*.gem"

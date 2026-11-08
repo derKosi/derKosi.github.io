@@ -1,4 +1,5 @@
 ---
+title: Wettbewerbe
 icon: fas fa-trophy
 order: 6
 ---
