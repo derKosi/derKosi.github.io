@@ -3,9 +3,11 @@ icon: fas fa-info-circle
 order: 2
 ---
 
-> Senior Software Engineer & Cloud Architect mit 15+ Jahren Erfahrung in Business-Software.
+> Senior Software Engineer & Cloud Architect mit 18 Jahren Erfahrung in Business-Software.
 > Mein Fokus: **Secure AI Engineering** – LLM-Gateways, Compliance-Shields und
 > Agenten-Infrastruktur, die KI in regulierten Umgebungen erst rechtssicher möglich machen.
+
+**Ergebnisse statt Versprechen:** 🏆 Gewinner Smart-Cities-Challenge, Hackatron München 2026 ([SignalFlow](/projects/signalflow/)) · Top 23 % bei ARC White-Box Estimation (Platz 180/800, [Writeup](/posts/whest-arc-top23/)) · Log Loss 0.3963 / AUROC 0.9004 bei DrivenData DaT Parkinson's ([Writeup](/posts/dat-parkinsons-writeup/)) · **6 aktive Cloud-Zertifikate** ([verifizierbar](/zertifikate/): 5× Azure bis 2027, GCP Professional Cloud Architect) · 192 gemergte PRs, 40+ Repos (GitHub-Evidenz 10/2026)
 
 ## Was ich mache
 
@@ -30,7 +32,7 @@ Ein Teil meiner Arbeit ist öffentlich: [Ohm](https://github.com/derKosi/Ohm) (A
 ## Zertifizierungen
 
 - **Microsoft Azure:** DevOps Engineer Expert · Developer Associate · Administrator Associate · AI Engineer Associate
-- **Google Cloud:** Professional Cloud Architect · Data Engineer
+- **Google Cloud:** Professional Cloud Architect (Recert 11/2026, gültig bis 2028)
 - **AI Foundations:** Stanford (Statistical Learning, 2016) · Duke (Machine Learning) · Columbia (Statistical Thinking)
 
 ## Wie ich arbeite
