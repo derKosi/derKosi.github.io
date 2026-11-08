@@ -17,7 +17,7 @@ Parallel dazu modernisiere ich gewachsene Business-Software und integriere B2B-S
 
 ## Open Source & Wettbewerbe
 
-Ein Teil meiner Arbeit ist öffentlich: [Ohm](https://github.com/derKosi/Ohm) (AI-Hygiene-Scanner, AGPL), [UnixDirStat](https://github.com/derKosi/UnixDirStat) (Terminal-Disk-Analyzer, MIT) und [ClubSteward](https://github.com/derKosi/clubsteward) (Hackathon-Agent, Strands SDK). Dazu Wettbewerbs-ML (DrivenData DaT Parkinson's) – die Disziplin des Arbeitens unter Metrik und Deadline.
+Ein Teil meiner Arbeit ist öffentlich: [Ohm](https://github.com/derKosi/Ohm) (AI-Hygiene-Scanner, AGPL), [UnixDirStat](https://github.com/derKosi/UnixDirStat) (Terminal-Disk-Analyzer, MIT) und [ClubSteward](https://github.com/derKosi/clubsteward) (Hackathon-Agent, Strands SDK). Dazu Wettbewerbsergebnisse: 🏆 Gewinner Smart-Cities-Challenge beim Hackatron München 2026 ([SignalFlow](/projects/signalflow/)), Top 23 % bei der ARC White-Box Estimation Challenge ([Writeup](/posts/whest-arc-top23/)), DrivenData DaT Parkinson's – die Disziplin des Arbeitens unter Metrik und Deadline.
 
 ## Schwerpunkte
 
