@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "KI-Agenten als dev-Team: meine Arbeitsweise, mit Zahlen"
-date: 2026-11-08 16:00:00 +0100
+date: 2026-11-08 14:00:00 +0100
 author: derKosi
 lang: de
 categories: [AI Agents, Arbeitsweise]
