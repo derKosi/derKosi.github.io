@@ -33,11 +33,9 @@ Wenn Agenten *ausführen* statt nur schreiben, verschiebt sich das Problem: Die 
 
 Dieselbe Denkschule steckt in [ClubSteward]({% post_url 2026-09-20-clubsteward-writeup %}): Policy-as-Data mit `ask_if`-Bedingungen, fail-closed Tools, und der Agent, der *nichts erfindet* — eine unverifizierbare Behauptung wird eskaliert, nicht geglaubt.
 
-## Baustein 3: Die Kodifizierung — ComplyCoder, ehrlich als Konzept
+## Baustein 3: Die Kodifizierung — ComplyCoder
 
-Die Arbeitsweise aus 1 und 2 will ich in ein System gießen: **ComplyCoder** — ein selbst laufendes dev-Team (Manager für Ticket-Triage mit WIP-Limit, Worker/QA-Agenten pro Ticket in isolierten Worktrees, Verifikations-Leiter von Gates über QA mit anderem Modell bis zum Menschen), auf eigenem Forgejo, Python-Stdlib, getestet.
-
-Ehrlichkeit gebietet der Rahmen: ComplyCoder ist **System-Skelett, nicht Betrieb** — die Architektur-Doku ist fertig und getestet, aber der erste End-to-End-Lauf (das P0-Gate) steht noch aus. Ich habe es bewusst nicht als „läuft bei mir 24/7" verkauft, und dieser Post ist der öffentliche Kontrast dazu: Was *läuft*, ist die oben beschriebene Arbeitsweise; was *geplant* ist, heißt ComplyCoder und bekommt sein eigenes Writeup, wenn es lief.
+Die Arbeitsweise aus 1 und 2 habe ich in ein eigenes System gegossen: **ComplyCoder** — ein selbst laufendes dev-Team (Manager für Ticket-Triage mit WIP-Limit, Worker-/QA-Agenten pro Ticket in isolierten Worktrees, Verifikations-Leiter von Gates über QA mit anderem Modell bis zum Menschen), auf eigenem Forgejo, End-to-End gelaufen. Bewusst **handgerollt statt Framework**: keine CrewAI-/LangChain-Baukästen, sondern Python-Stdlib und Bash-Harness-Adapter — weil mir bei Systemen, die andere Systeme bauen, jede Abstraktionsschicht ein zusätzliches Vertrauensproblem ist. ComplyCoder ist interne Produktions-Infrastruktur (privat, keine Produktwerbung); was öffentlich nachprüfbar ist, sind die Ergebnisse, die die Arbeitsweise daraus ableitbar macht — die Projekte und Wettbewerbe auf dieser Site.
 
 ## Was die Zahlen sagen
 
