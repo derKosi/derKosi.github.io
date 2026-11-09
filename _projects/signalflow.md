@@ -3,7 +3,7 @@ title: "SignalFlow – Erklärbare Ampelsteuerung (Hackatron-Gewinner 🏆)"
 order: 15
 icon: fas fa-trophy
 tags: [Python, Simulation, Explainable AI, Smart City, Traffic Flow, Max-Pressure, OpenStreetMap, Hackathon]
-summary: "Gewinner der Smart-Cities-Challenge beim Hackatron München (MunichTech EXPO 2026). Adaptive, erklärbare Ampelsteuerung: −24,5 % Delay auf identischem Verkehrsstrom bewiesen, jede Umschaltung in natürlicher Sprache begründet. Zero-Dependency-Python, Live-Demo."
+summary: "Gewinner der Smart-Cities-Challenge beim Hackatron München (MunichTech EXPO 2026). Adaptive, erklärbare Ampelsteuerung: −24,5 % Delay auf identischem Verkehrsstrom bewiesen, jede Umschaltung in natürlicher Sprache begründet. Zero-Dependency-Python."
 category: hackathons
 ---
 
@@ -11,7 +11,7 @@ category: hackathons
 > **Ergebnis:** 🏆 **Gewinner der Smart-Cities-Challenge**
 **Deutsch**
 
-> **Live-Demo:** [signalflow.complykit.de](https://signalflow.complykit.de/) · **Quellcode:** nicht öffentlich (PolyForm-NC-Lizenz) — diese Seite ist die öffentliche Writeup-Fassung.
+> **Live-Demo:** stand nach dem Sieg online, inzwischen abgeschaltet (Zweck erfüllt) · **Quellcode:** nicht öffentlich (PolyForm-NC-Lizenz) — diese Seite ist die öffentliche Writeup-Fassung.
 
 ## In einfachen Worten
 
@@ -51,7 +51,7 @@ Explainability wird oft als Feature-Checkbox verkauft. Hier war sie die Kernents
 
 ## Stand nach dem Sieg
 
-Live-Demo läuft (inkl. Demo-Polish aus September), Code bleibt unter PolyForm Noncommercial 1.0.0 geschlossen. Dieser Post und die Projektkarte sind der WRITEUP-Schritt — Details zur Contest-Doku (ADR-Log, Prize-Mapping, Handoff-Kit) liegen im Submission-Kit.
+Die Live-Demo stand nach dem Sieg online und ist inzwischen abgeschaltet — der Zweck (Jury + öffentlicher Nachweis) ist erfüllt, der A/B-Beweis bleibt hier dokumentiert. Der Code bleibt unter PolyForm Noncommercial 1.0.0 geschlossen. Dieser Post und die Projektkarte sind der WRITEUP-Schritt — Details zur Contest-Doku (ADR-Log, Prize-Mapping, Handoff-Kit) liegen im Submission-Kit.
 
 ---
 

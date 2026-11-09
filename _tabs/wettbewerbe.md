@@ -8,7 +8,7 @@ order: 6
 
 ## Hackatron München (MunichTech EXPO 2026) — 🏆 Gewinner
 
-- [**SignalFlow – Erklärbare Ampelsteuerung**](/projects/signalflow/) — 🏆 **Gewinner der Smart-Cities-Challenge.** Adaptive Ampelsteuerung mit A/B-Beweis auf identischem Verkehrsstrom: −24,5 % Delay, −68,4 % verschwendete Grünzeit. [Live-Demo](https://signalflow.complykit.de/).
+- [**SignalFlow – Erklärbare Ampelsteuerung**](/projects/signalflow/) — 🏆 **Gewinner der Smart-Cities-Challenge.** Adaptive Ampelsteuerung mit A/B-Beweis auf identischem Verkehrsstrom: −24,5 % Delay, −68,4 % verschwendete Grünzeit.
   - [Gewinner-Post: „SignalFlow gewinnt die Smart-Cities-Challenge"](/posts/signalflow-gewinner/)
 
 ## ARC White-Box Estimation Challenge (AIcrowd 2026)

@@ -44,9 +44,9 @@ order: 1
         <span class="proj-card-name">SignalFlow</span>
         <span class="badge-flag flag-gold">🏆 Gewinner</span>
       </div>
-      <p class="proj-card-desc">Erklärbare Ampelsteuerung mit A/B-Beweis auf identischem Verkehrsstrom: −24,5 % Delay, −68,4 % verschwendete Grünzeit. Live-Demo läuft.</p>
+      <p class="proj-card-desc">Erklärbare Ampelsteuerung mit A/B-Beweis auf identischem Verkehrsstrom: −24,5 % Delay, −68,4 % verschwendete Grünzeit.</p>
       <div class="pill-row">
-        <span class="pill">Hackatron München 2026</span><span class="pill">Explainable AI</span><span class="pill">Zero-Dep Python</span><span class="pill">Live-Demo</span>
+        <span class="pill">Hackatron München 2026</span><span class="pill">Explainable AI</span><span class="pill">Zero-Dep Python</span><span class="pill">Smart Cities</span>
       </div>
     </a>
     <a class="proj-card card-ok" href="{{ '/posts/whest-arc-top23/' | relative_url }}">

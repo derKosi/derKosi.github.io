@@ -9,7 +9,7 @@ categories: [Simulation, Wettbewerbe]
 tags: [Explainable AI, Smart City, Traffic Simulation, Hackathon, MunichTech EXPO, Max-Pressure]
 ---
 
-> *Einreichung für den Hackatron München (MunichTech EXPO 2026, 19.–20.09.) — Challenge „Smart Cities: Adaptive Traffic Flow". **Ergebnis: 🏆 gewonnen.** [Projektseite](/projects/signalflow/) · [Live-Demo](https://signalflow.complykit.de/) — Quellcode bleibt geschlossen (PolyForm-NC), deshalb hier die Story statt des Codes.*
+> *Einreichung für den Hackatron München (MunichTech EXPO 2026, 19.–20.09.) — Challenge „Smart Cities: Adaptive Traffic Flow". **Ergebnis: 🏆 gewonnen.** [Projektseite](/projects/signalflow/) — Quellcode bleibt geschlossen (PolyForm-NC), deshalb hier die Story statt des Codes.*
 
 ## Die Idee in einem Satz
 
@@ -35,7 +35,7 @@ Nicht wegen der Idee — Max-Pressure-Steuerung ist Literatur. Sondern wegen der
 
 ## Was danach passierte
 
-20.–22.09. habe ich die Live-Demo poliert ([signalflow.complykit.de](https://signalflow.complykit.de/)), sie steht seitdem. Der Code bleibt unter **PolyForm Noncommercial 1.0.0** geschlossen — die Geschichte und die Ergebnisse sind öffentlich, der Code nicht. [Projektseite mit allen Details](/projects/signalflow/).
+20.–22.09. habe ich die Live-Demo poliert und nach dem Sieg online gestellt; inzwischen ist sie wieder abgeschaltet — der Zweck (Jury + öffentlicher Nachweis) ist erfüllt. Der Code bleibt unter **PolyForm Noncommercial 1.0.0** geschlossen — die Geschichte und die Ergebnisse sind öffentlich, der Code nicht. [Projektseite mit allen Details](/projects/signalflow/).
 
 ## Ehrliche Einordnung
 
