@@ -1,4 +1,5 @@
 ---
+description: "DaT Parkinson’s Challenge: 0.59 → 0.40 Log Loss — Multicenter-SPECT, Site-Shift, Kalibrierung unter DrivenData-Regeln."
 layout: post
 title: "DaT Parkinson's Challenge: 0.59 → 0.40 Log Loss — die Geschichte hinter dem Score"
 date: 2026-09-20 12:30:00 +0200

@@ -1,4 +1,5 @@
 ---
+description: "Top 23 % bei ARC White-Box Estimation (Platz 180/800) — solo, mit KI-Agenten als dev-Team, bei harter Materie."
 layout: post
 title: "Top 23 % bei ARC White-Box Estimation — solo, mit KI-Agenten, bei harter Materie"
 date: 2026-11-08 11:00:00 +0100
@@ -40,3 +41,5 @@ Und offen gesagt: Das war das erste Projekt, in dem ich KI-Agenten nicht als Aut
 **Platz 180 von 800 — Top 23 %.** Im August lag ich mit der bewerteten Submission noch auf Platz 13 von 43 bewerteten Einreichungen; das Feld ist danach schnell und groß geworden, und ich habe nach dem 29.08. nicht mehr weiteroptimiert, weil die Deadline-Realität (Hackathons, Abgaben) Vorrang hatte. Ich habe nicht gewonnen. Was der Wert ausmacht, ist anders: eine externe, von Dritten verifizierte Platzierung auf einem kompetitiven Feld mit ARC-Bezug — unter Beweisstellung, dass ich ein wissenschaftliches Experiment sauber aufziehen, KI-Agenten als Team führen und ein Ergebnis *ohne* Überzeichnung berichten kann.
 
 Der Rest-Schritt ist dieser Post: Der WRITEUP-Schritt aus meinem Portfolio-Plan ist damit erledigt, das Repo geht in den Hygiene-Archiv-Modus.
+
+*→ [Alle Wettbewerbe auf einen Blick](/wettbewerbe/)*

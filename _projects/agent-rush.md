@@ -42,3 +42,7 @@ Zwei Schwächen stehen offen in der Doku, weil das das Projektprinzip ist: ein d
 ## Stand
 
 Abgabe am 08.11.2026 (End-to-End-Run lokal verifiziert: Egress 2×403 geloggt, read-only rootfs hält, Decoy-Key nicht lesbar, Verdict `high`, 18 s End-to-End). **Das Wettbewerbsergebnis wird hier und im Begleit-Post nachgetragen**, sobald judging abgeschlossen ist.
+
+---
+
+*→ [Alle Wettbewerbe](/wettbewerbe/) · [Zur Projekt-Übersicht](/projects/)*

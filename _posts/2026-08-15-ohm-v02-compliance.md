@@ -1,4 +1,5 @@
 ---
+description: "Ohm v0.2: Privacy-First AI-Scanner nach externem Audit — alle Findings gefixt, 100 % offline."
 layout: post
 title: "Ohm v0.2: Vom Aufräum-Tool zum Compliance-Instrument"
 date: 2026-08-15

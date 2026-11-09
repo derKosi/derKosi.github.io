@@ -1,4 +1,5 @@
 ---
+description: "Wie ein externes AI-Audit echte Findings in Ohm und UnixDirStat fand — und was daraus wurde."
 layout: post
 title: "Wie ein KI-Audit 21 Schwachstellen in meinen Open-Source-Tools fand – und was ich daraus lernte"
 date: 2026-09-20

@@ -52,3 +52,7 @@ Explainability wird oft als Feature-Checkbox verkauft. Hier war sie die Kernents
 ## Stand nach dem Sieg
 
 Live-Demo läuft (inkl. Demo-Polish aus September), Code bleibt unter PolyForm Noncommercial 1.0.0 geschlossen. Dieser Post und die Projektkarte sind der WRITEUP-Schritt — Details zur Contest-Doku (ADR-Log, Prize-Mapping, Handoff-Kit) liegen im Submission-Kit.
+
+---
+
+*→ [Alle Wettbewerbe](/wettbewerbe/) · [Zur Projekt-Übersicht](/projects/)*

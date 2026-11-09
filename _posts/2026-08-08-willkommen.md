@@ -1,4 +1,5 @@
 ---
+description: "Willkommen auf meinem Portfolio: Secure AI Engineering, Cloud Architecture und Wettbewerbe — Ergebnisse statt Versprechen."
 layout: post
 title: "Willkommen – Secure AI Engineering & Cloud Architecture"
 date: 2026-08-08

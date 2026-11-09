@@ -1,4 +1,5 @@
 ---
+description: "ClubSteward: Ein Agent, der weiß, wo er anhalten muss — Policy-as-Data, Human-in-the-Loop, AWS × Devpost Hackathon."
 layout: post
 title: "ClubSteward: Ein Agent, der weiß, wo er anhalten muss"
 date: 2026-09-20 13:00:00 +0200

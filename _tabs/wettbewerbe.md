@@ -1,4 +1,5 @@
 ---
+description: "Wettbewerbe: Hackatron-Gewinner, ARC Top 23 %, DrivenData, AWS × Devpost, Vultr Agent Rush — unter Metrik und Deadline."
 title: Wettbewerbe
 icon: fas fa-trophy
 order: 6

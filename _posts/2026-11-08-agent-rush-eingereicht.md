@@ -1,4 +1,5 @@
 ---
+description: "agent-rush: untrusted Python-Pakete im gehärteten Container proben — Risk-Report plus Roh-Evidenz. Vultr Agent Rush, abgegeben."
 layout: post
 title: "agent-rush: Abgegeben bei Vultr Agent Rush — Evidenz statt Behauptung"
 date: 2026-11-08 12:00:00 +0100
@@ -37,3 +38,5 @@ Der verifizierte End-to-End-Run: Egress 2×403 geloggt, read-only rootfs hält, 
 Abgabe war heute (08.11.). Das Judging-Ergebnis trage ich **in diesem Post und auf der [Projektseite](/projects/agent-rush/) nach** — als Update am selben Ort, damit die Story komplett bleibt, ob der Preis kommt oder nicht.
 
 Auch ohne Preis ist die These des Projekts für mich gültig: Agenten, die Code ausführen, brauchen Container mit ausführbaren Policy-Flags und Beweise statt Selbstauskunft. Genau das ist auch der Kern meiner Compliance-Linie — dieses Projekt ist der Containment-Baustein dafür.
+
+*→ [Alle Wettbewerbe auf einen Blick](/wettbewerbe/)*

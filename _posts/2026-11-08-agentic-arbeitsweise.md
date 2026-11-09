@@ -1,4 +1,5 @@
 ---
+description: "KI-Agenten als dev-Team: meine Arbeitsweise mit Zahlen — Pre-Registration, Gates, Containment und Evidenz statt Vertrauen."
 layout: post
 title: "KI-Agenten als dev-Team: meine Arbeitsweise, mit Zahlen"
 date: 2026-11-08 14:00:00 +0100

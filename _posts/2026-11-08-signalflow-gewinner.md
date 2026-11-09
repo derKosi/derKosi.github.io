@@ -1,4 +1,5 @@
 ---
+description: "SignalFlow gewinnt die Smart-Cities-Challenge beim Hackatron München: −24,5 % Delay auf identischem Verkehrsstrom bewiesen."
 layout: post
 title: "🏆 SignalFlow gewinnt die Smart-Cities-Challenge beim Hackatron München"
 date: 2026-11-08 10:00:00 +0100
@@ -39,3 +40,5 @@ Nicht wegen der Idee — Max-Pressure-Steuerung ist Literatur. Sondern wegen der
 ## Ehrliche Einordnung
 
 Ein Hackathon-Sieg in einer Challenge-Sparte ist ein Kompetenzsignal, kein Geschäftsmodell: Verkehr ist nicht meine Branche, die NC-Lizenz sperrt Kommerz bewusst. Was bleibt, ist die Methode — identische Streams statt Behauptungen, Begründungen statt Blackbox — und die gehört in jedes meiner Evaluierungs-Themen, vom LLM-Gateway bis zum Compliance-Audit.
+
+*→ [Alle Wettbewerbe auf einen Blick](/wettbewerbe/)*

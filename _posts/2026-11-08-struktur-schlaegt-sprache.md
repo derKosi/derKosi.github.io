@@ -1,4 +1,5 @@
 ---
+description: "Struktur schlägt Sprache: micrograd bitwise in 6 Sprachen — Datenlayout bringt ~15×, der Sprachwechsel selbst ~1×."
 layout: post
 title: "Struktur schlägt Sprache: micrograd bitweise in sechs Sprachen"
 date: 2026-11-08 13:00:00 +0100
@@ -70,3 +71,5 @@ Gemessen wurde auf *einem* Laptop (i3-3110M, single-threaded, Throttling) — Me
 Wer „Sprache X ist schneller" diskutiert, diskutiert meist Datenlayout mit falschen Labels. Der Benchmark sagt: **Struktur schlägt Sprache ~15×, Sprache schlägt Struktur ~1×.** Und der Lean-Teil sagt: Wenn Korrektheit zählt, kann man sie für denselben Algorithmus maschinengeprüft bekommen — nur eben nicht schneller, sondern garantiert.
 
 *Repo inkl. aller 7 Ports, JSON-Vertrag und Proof.lean folgt als Link, sobald die Public-Entscheidung (plus LICENSE) gefallen ist.*
+
+*→ [Alle Wettbewerbe auf einen Blick](/wettbewerbe/)*

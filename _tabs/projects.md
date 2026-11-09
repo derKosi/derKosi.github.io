@@ -1,4 +1,5 @@
 ---
+description: "Projekte: Secure AI & Compliance, Wettbewerbe mit Beweis, Open Source (auditiert) und B2B-Integration — jede Karte mit Beleg."
 title: Projekte
 icon: fas fa-layer-group
 order: 1
@@ -13,7 +14,7 @@ order: 1
   <div class="proj-grid-lg">
     <a class="proj-card" href="{{ '/projects/kosicomply/' | relative_url }}">
       <div class="proj-card-head">
-        <span class="proj-ico ico-red"><i class="fas fa-shield-halved"></i></span>
+        <span class="proj-ico ico-red"><i aria-hidden="true" class="fas fa-shield-halved"></i></span>
         <span class="proj-card-name">KosiComply</span>
       </div>
       <p class="proj-card-desc">Compliance-first AI-Plattform für rechtssichere KI-Nutzung im DACH-Markt: LLM-Gateway mit PII-Filter, Compliance-Shields, hash-chained Audit-Logging.</p>
@@ -23,7 +24,7 @@ order: 1
     </a>
     <a class="proj-card" href="{{ '/projects/heimdall/' | relative_url }}">
       <div class="proj-card-head">
-        <span class="proj-ico ico-red"><i class="fas fa-key"></i></span>
+        <span class="proj-ico ico-red"><i aria-hidden="true" class="fas fa-key"></i></span>
         <span class="proj-card-name">Heimdall</span>
       </div>
       <p class="proj-card-desc">OAuth-2.0-Token-Mediationsplattform für Partner-App-Stores. 17 Live-Adapter, AES-256-GCM, custody-Modelle für verschwiegenheitspflichtige Branchen.</p>
@@ -39,7 +40,7 @@ order: 1
   <div class="proj-grid-lg">
     <a class="proj-card card-win" href="{{ '/projects/signalflow/' | relative_url }}">
       <div class="proj-card-head">
-        <span class="proj-ico ico-gold"><i class="fas fa-trophy"></i></span>
+        <span class="proj-ico ico-gold"><i aria-hidden="true" class="fas fa-trophy"></i></span>
         <span class="proj-card-name">SignalFlow</span>
         <span class="badge-flag flag-gold">🏆 Gewinner</span>
       </div>
@@ -50,7 +51,7 @@ order: 1
     </a>
     <a class="proj-card card-ok" href="{{ '/posts/whest-arc-top23/' | relative_url }}">
       <div class="proj-card-head">
-        <span class="proj-ico ico-green"><i class="fas fa-ranking-star"></i></span>
+        <span class="proj-ico ico-green"><i aria-hidden="true" class="fas fa-ranking-star"></i></span>
         <span class="proj-card-name">whest — ARC White-Box</span>
         <span class="badge-flag flag-ok">Top 23 %</span>
       </div>
@@ -61,7 +62,7 @@ order: 1
     </a>
     <a class="proj-card" href="{{ '/projects/agent-rush/' | relative_url }}">
       <div class="proj-card-head">
-        <span class="proj-ico ico-amber"><i class="fas fa-box-open"></i></span>
+        <span class="proj-ico ico-amber"><i aria-hidden="true" class="fas fa-box-open"></i></span>
         <span class="proj-card-name">agent-rush</span>
         <span class="badge-flag flag-live">Abgabe 11/2026</span>
       </div>
@@ -72,7 +73,7 @@ order: 1
     </a>
     <a class="proj-card" href="{{ '/projects/clubsteward/' | relative_url }}">
       <div class="proj-card-head">
-        <span class="proj-ico ico-amber"><i class="fas fa-user-shield"></i></span>
+        <span class="proj-ico ico-amber"><i aria-hidden="true" class="fas fa-user-shield"></i></span>
         <span class="proj-card-name">ClubSteward</span>
       </div>
       <p class="proj-card-desc">Overnight Club-Secretary-Agent: Policy-as-Data-Human-in-the-Loop — autonom auf die 80 %, sauber gestoppt bei den 20 %. Vollständig lokal, ~1 Cent/Nacht.</p>
@@ -88,7 +89,7 @@ order: 1
   <div class="proj-grid-lg">
     <a class="proj-card" href="{{ '/projects/ohm/' | relative_url }}">
       <div class="proj-card-head">
-        <span class="proj-ico ico-green"><i class="fas fa-bolt"></i></span>
+        <span class="proj-ico ico-green"><i aria-hidden="true" class="fas fa-bolt"></i></span>
         <span class="proj-card-name">Ohm</span>
         <span class="badge-flag flag-ok">Extern auditiert</span>
       </div>
@@ -99,7 +100,7 @@ order: 1
     </a>
     <a class="proj-card" href="{{ '/projects/unixdirstat/' | relative_url }}">
       <div class="proj-card-head">
-        <span class="proj-ico ico-green"><i class="fas fa-chart-pie"></i></span>
+        <span class="proj-ico ico-green"><i aria-hidden="true" class="fas fa-chart-pie"></i></span>
         <span class="proj-card-name">UnixDirStat</span>
         <span class="badge-flag flag-ok">Auditiert</span>
       </div>
@@ -110,7 +111,7 @@ order: 1
     </a>
     <a class="proj-card" href="{{ '/projects/comfyui-rig/' | relative_url }}">
       <div class="proj-card-head">
-        <span class="proj-ico ico-green"><i class="fas fa-microchip"></i></span>
+        <span class="proj-ico ico-green"><i aria-hidden="true" class="fas fa-microchip"></i></span>
         <span class="proj-card-name">ComfyUI-Rig</span>
       </div>
       <p class="proj-card-desc">Lokale AI-Generierung via MCP-Server: 31 Tools für Workflow-Erstellung, Model-Management, VRAM-Kontrolle. Angebunden an AI-Agenten.</p>
@@ -120,7 +121,7 @@ order: 1
     </a>
     <a class="proj-card" href="{{ '/projects/phon/' | relative_url }}">
       <div class="proj-card-head">
-        <span class="proj-ico ico-green"><i class="fas fa-microphone"></i></span>
+        <span class="proj-ico ico-green"><i aria-hidden="true" class="fas fa-microphone"></i></span>
         <span class="proj-card-name">Phon</span>
       </div>
       <p class="proj-card-desc">Offline-Spracherkennung: Hotkey → sprechen → Text im Clipboard. 100 % offline, faster-whisper/VOSK, Legacy-Hardware-tauglich.</p>
@@ -136,7 +137,7 @@ order: 1
   <div class="proj-grid-lg">
     <a class="proj-card" href="{{ '/projects/cloudstandins/' | relative_url }}">
       <div class="proj-card-head">
-        <span class="proj-ico ico-blue"><i class="fas fa-cloud"></i></span>
+        <span class="proj-ico ico-blue"><i aria-hidden="true" class="fas fa-cloud"></i></span>
         <span class="proj-card-name">CloudStandins</span>
       </div>
       <p class="proj-card-desc">„LocalStack for SaaS APIs": Mock-Server für 11 B2B-Provider ohne Testzugang. 213 Tests, .NET 10.</p>
@@ -146,7 +147,7 @@ order: 1
     </a>
     <a class="proj-card" href="{{ '/projects/kanzlei360/' | relative_url }}">
       <div class="proj-card-head">
-        <span class="proj-ico ico-blue"><i class="fas fa-diagram-project"></i></span>
+        <span class="proj-ico ico-blue"><i aria-hidden="true" class="fas fa-diagram-project"></i></span>
         <span class="proj-card-name">Kanzlei360</span>
       </div>
       <p class="proj-card-desc">Multi-System-Sync (DATEV, SuperOffice, HubSpot). Clean Architecture mit ArchUnitNET, CQRS, Dead-Letter-Handling. 287 Tests.</p>
@@ -156,7 +157,7 @@ order: 1
     </a>
     <a class="proj-card" href="{{ '/projects/vatvalidator/' | relative_url }}">
       <div class="proj-card-head">
-        <span class="proj-ico ico-blue"><i class="fas fa-percent"></i></span>
+        <span class="proj-ico ico-blue"><i aria-hidden="true" class="fas fa-percent"></i></span>
         <span class="proj-card-name">VatValidator</span>
       </div>
       <p class="proj-card-desc">EU-VAT-Validierung gegen BZSt und VIES. Auto-generiert aus OpenAPI-Specs (NSwag), .NET 8.</p>
@@ -166,7 +167,7 @@ order: 1
     </a>
     <a class="proj-card" href="{{ '/projects/tdmobileconverter/' | relative_url }}">
       <div class="proj-card-head">
-        <span class="proj-ico ico-blue"><i class="fas fa-right-left"></i></span>
+        <span class="proj-ico ico-blue"><i aria-hidden="true" class="fas fa-right-left"></i></span>
         <span class="proj-card-name">TDMobileConverter</span>
       </div>
       <p class="proj-card-desc">Legacy-Migration mit LLM: Gupta/OpenText TD Mobile SAL → Blazor Server. Hybride Pipeline (deterministischer Parser + LLM).</p>
@@ -182,7 +183,7 @@ order: 1
   <div class="proj-grid-lg">
     <a class="proj-card" href="{{ '/projects/baugenie/' | relative_url }}">
       <div class="proj-card-head">
-        <span class="proj-ico ico-gray"><i class="fas fa-helmet-safety"></i></span>
+        <span class="proj-ico ico-gray"><i aria-hidden="true" class="fas fa-helmet-safety"></i></span>
         <span class="proj-card-name">BauGenie</span>
       </div>
       <p class="proj-card-desc">Multilinguale Construction-SaaS (26 Sprachen, DIN-Norm-Checks, DXF-Export). Next.js, Supabase, Vercel CI/CD.</p>
@@ -192,7 +193,7 @@ order: 1
     </a>
     <a class="proj-card" href="{{ '/posts/struktur-schlaegt-sprache/' | relative_url }}">
       <div class="proj-card-head">
-        <span class="proj-ico ico-gray"><i class="fas fa-gauge-high"></i></span>
+        <span class="proj-ico ico-gray"><i aria-hidden="true" class="fas fa-gauge-high"></i></span>
         <span class="proj-card-name">sprachencheck</span>
         <span class="badge-flag">Fachartikel</span>
       </div>
@@ -205,5 +206,5 @@ order: 1
 </div>
 
 <div class="page-footnote">
-  <i class="fas fa-circle-info"></i> Weitere Arbeiten im Bereich Agent-CLI-Entwicklung, Platform Operations (Musketier, Proxmox/Ansible) und Legacy-Migration auf <a href="{{ '/about/' | relative_url }}">Anfrage</a>.
+  <i aria-hidden="true" class="fas fa-circle-info"></i> Weitere Arbeiten im Bereich Agent-CLI-Entwicklung, Platform Operations (Musketier, Proxmox/Ansible) und Legacy-Migration auf <a href="{{ '/about/' | relative_url }}">Anfrage</a>.
 </div>

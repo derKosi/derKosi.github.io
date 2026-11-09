@@ -1,4 +1,5 @@
 ---
+description: "Über Mathias Kosinski: Secure AI Engineering, Cloud Architecture, 18 Jahre Business-Software, multi-cloud zertifiziert, wettbewerbserprobt."
 title: About
 icon: fas fa-info-circle
 order: 2
