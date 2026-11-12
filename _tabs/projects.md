@@ -46,7 +46,7 @@ order: 1
       </div>
       <p class="proj-card-desc">Erklärbare Ampelsteuerung mit A/B-Beweis auf identischem Verkehrsstrom: −24,5 % Delay, −68,4 % verschwendete Grünzeit.</p>
       <div class="pill-row">
-        <span class="pill">Hackatron München 2026</span><span class="pill">Explainable AI</span><span class="pill">Zero-Dep Python</span><span class="pill">Smart Cities</span>
+        <span class="pill">Hackatron München 2026</span><span class="pill">Explainable AI</span><span class="pill">Zero-Dep Python</span><span class="pill">Smart Cities</span><span class="pill">▶ 2-Min-Demo</span>
       </div>
     </a>
     <a class="proj-card card-ok" href="{{ '/posts/whest-arc-top23/' | relative_url }}">
@@ -68,7 +68,7 @@ order: 1
       </div>
       <p class="proj-card-desc">Untrusted Python-Pakete im gehärteten Container proben — Risk-Report <em>plus Roh-Evidenz</em> (Deny-Log, Prozess-Result, FS-Diff). „Evidenz statt Behauptung."</p>
       <div class="pill-row">
-        <span class="pill">Vultr Agent Rush</span><span class="pill">Container-Härtung</span><span class="pill">109 Tests</span><span class="pill">MIT · GitHub</span>
+        <span class="pill">Vultr Agent Rush</span><span class="pill">Container-Härtung</span><span class="pill">109 Tests</span><span class="pill">MIT · GitHub</span><span class="pill">▶ Video</span>
       </div>
     </a>
     <a class="proj-card" href="{{ '/projects/clubsteward/' | relative_url }}">
@@ -78,7 +78,7 @@ order: 1
       </div>
       <p class="proj-card-desc">Overnight Club-Secretary-Agent: Policy-as-Data-Human-in-the-Loop — autonom auf die 80 %, sauber gestoppt bei den 20 %. Vollständig lokal, ~1 Cent/Nacht.</p>
       <div class="pill-row">
-        <span class="pill">AWS × Devpost</span><span class="pill">Strands SDK</span><span class="pill">Policy-as-Data</span><span class="pill">HITL · GitHub</span>
+        <span class="pill">AWS × Devpost</span><span class="pill">Strands SDK</span><span class="pill">Policy-as-Data</span><span class="pill">HITL · GitHub</span><span class="pill">▶ Demo</span>
       </div>
     </a>
   </div>

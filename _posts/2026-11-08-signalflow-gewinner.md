@@ -11,6 +11,9 @@ tags: [Explainable AI, Smart City, Traffic Simulation, Hackathon, MunichTech EXP
 
 > *Einreichung für den Hackatron München (MunichTech EXPO 2026, 19.–20.09.) — Challenge „Smart Cities: Adaptive Traffic Flow". **Ergebnis: 🏆 gewonnen.** [Projektseite](/projects/signalflow/) — Quellcode bleibt geschlossen (PolyForm-NC), deshalb hier die Story statt des Codes.*
 
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/ynDpqAu5fyk" title="SignalFlow – Live-Demo (2 min)" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+<p class="video-caption"><i aria-hidden="true" class="fas fa-play"></i> Die Gewinn-Demo in 2 Minuten (YouTube).</p>
+
 ## Die Idee in einem Satz
 
 Ampeln, die nach dem Stau schalten statt nach dem Kalender — und jede Umschaltung *begründen* können.

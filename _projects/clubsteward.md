@@ -13,6 +13,9 @@ mermaid: true
 
 > **Quellcode:** [github.com/derKosi/clubsteward](https://github.com/derKosi/clubsteward) (public)
 
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/nR7I291ri9M?start=72" title="ClubSteward – Demo" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+<p class="video-caption"><i aria-hidden="true" class="fas fa-play"></i> ClubSteward-Demo (YouTube) — Inbox-Verarbeitung über Nacht, Human-in-the-Loop in Aktion.</p>
+
 ## In einfachen Worten
 
 Vereine haben viel Post: Anmeldungen, Adressänderungen, Fragen zum Spielplan. Das ist viel Arbeit — und sie wird oft von Menschen gemacht, die das ehrenamtlich neben ihrem richtigen Job tun.

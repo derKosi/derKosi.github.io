@@ -13,6 +13,9 @@ category: hackathons
 
 > **Quellcode:** [github.com/derKosi/agent-rush](https://github.com/derKosi/agent-rush) (public, MIT)
 
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/U8ssu2KqMwo" title="Quarantine: proof before the install (2 min)" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+<p class="video-caption"><i aria-hidden="true" class="fas fa-play"></i> „Quarantine: proof before the install“ (2 Min., YouTube) — warum das Paket erst in die Sandbox kommt, bevor es irgendwas darf.</p>
+
 ## In einfachen Worten
 
 Wenn ein KI-Agent fremden Code installiert, ist die Frage nicht „was sagt das README?" — sondern „was macht das Paket wirklich?". agent-rush lässt einen Agenten ein Python-Paket untersuchen, aber nicht auf dem Rechner, sondern in einem Container, der nichts nach außen lassen kann und nichts verändern kann. Am Ende gibt es zwei Dinge: einen kurzen Risk-Report — und die rohen Beweise dazu. Was der Agent behauptet, ist immer gegenlaufbar gegen Log.

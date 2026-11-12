@@ -8,7 +8,7 @@ order: 6
 
 ## Hackatron München (MunichTech EXPO 2026) — 🏆 Gewinner
 
-- [**SignalFlow – Erklärbare Ampelsteuerung**](/projects/signalflow/) — 🏆 **Gewinner der Smart-Cities-Challenge.** Adaptive Ampelsteuerung mit A/B-Beweis auf identischem Verkehrsstrom: −24,5 % Delay, −68,4 % verschwendete Grünzeit.
+- [**SignalFlow – Erklärbare Ampelsteuerung**](/projects/signalflow/) — 🏆 **Gewinner der Smart-Cities-Challenge.** Adaptive Ampelsteuerung mit A/B-Beweis auf identischem Verkehrsstrom: −24,5 % Delay, −68,4 % verschwendete Grünzeit. [▶ 2-Min-Demo (YouTube)](https://www.youtube.com/watch?v=ynDpqAu5fyk)
   - [Gewinner-Post: „SignalFlow gewinnt die Smart-Cities-Challenge"](/posts/signalflow-gewinner/)
 
 ## ARC White-Box Estimation Challenge (AIcrowd 2026)
@@ -17,12 +17,12 @@ order: 6
 
 ## Vultr Agent Rush (LabLab 2026, Track 1 „Blast Radius Zero")
 
-- [**agent-rush – Package-Triage-Sandbox**](/projects/agent-rush/) — Agent inspiziert untrusted Python-Pakete im gehärteten Container und liefert Risk-Report + Roh-Evidenz. **Eingereicht 08.11. — Ergebnis steht aus** (wird nachgetragen).
+- [**agent-rush – Package-Triage-Sandbox**](/projects/agent-rush/) — Agent inspiziert untrusted Python-Pakete im gehärteten Container und liefert Risk-Report + Roh-Evidenz. [▶ Video (YouTube)](https://www.youtube.com/watch?v=U8ssu2KqMwo) **Eingereicht 08.11. — Ergebnis steht aus** (wird nachgetragen).
   - [Post: „Abgegeben bei Vultr Agent Rush — Evidenz statt Behauptung"](/posts/agent-rush-eingereicht/)
 
 ## Agents for Humans (AWS × Devpost 2026)
 
-- [**ClubSteward – Overnight Club-Secretary Agent**](/projects/clubsteward/) — Strands Agents SDK, Policy-as-Data-Human-in-the-Loop, vollständig lokal. Submitted.
+- [**ClubSteward – Overnight Club-Secretary Agent**](/projects/clubsteward/) — Strands Agents SDK, Policy-as-Data-Human-in-the-Loop, vollständig lokal. Submitted. [▶ Demo (YouTube)](https://www.youtube.com/watch?v=nR7I291ri9M&t=72s)
   - [English](/projects/clubsteward-en/) · [Einfache Sprache](/projects/clubsteward/#in-einfachen-worten)
   - [Writeup-Post: „Ein Agent, der weiß, wo er anhalten muss"](/posts/clubsteward-writeup/)
 

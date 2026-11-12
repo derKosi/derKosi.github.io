@@ -11,7 +11,10 @@ category: hackathons
 > **Ergebnis:** 🏆 **Gewinner der Smart-Cities-Challenge**
 **Deutsch**
 
-> **Live-Demo:** stand nach dem Sieg online, inzwischen abgeschaltet (Zweck erfüllt) · **Quellcode:** nicht öffentlich (PolyForm-NC-Lizenz) — diese Seite ist die öffentliche Writeup-Fassung.
+> **Quellcode:** nicht öffentlich (PolyForm-NC-Lizenz) — diese Seite ist die öffentliche Writeup-Fassung. Die Live-Demo stand nach dem Sieg online und ist inzwischen abgeschaltet — das Video unten zeigt sie.
+
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/ynDpqAu5fyk" title="SignalFlow – Live-Demo (2 min)" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+<p class="video-caption"><i aria-hidden="true" class="fas fa-play"></i> SignalFlow-Demo (2 Min., YouTube) — Festzeitplan vs. adaptive Steuerung mit Erklär-Output.</p>
 
 ## In einfachen Worten
 
