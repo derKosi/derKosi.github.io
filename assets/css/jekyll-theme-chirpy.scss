@@ -150,6 +150,17 @@ a.stat-card:hover {
 }
 
 /* ==========================================================
+   Breiteres Layout auf großen Screens
+   (Bootstrap cappt .container bei 1320px — Inhalte sollen
+   beim Maximieren mitwachsen, aber nicht endlos)
+   ========================================================== */
+@media (min-width: 1400px) {
+  .container {
+    max-width: 96rem; /* 1536px statt 1320px */
+  }
+}
+
+/* ==========================================================
    Video-Embeds (YouTube, privacy-enhanced)
    ========================================================== */
 .video-embed {
